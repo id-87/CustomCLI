@@ -1,0 +1,23 @@
+{
+  "name": "customcli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/id-87/CustomCLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/id-87/CustomCLI/issues"
+  },
+  "homepage": "https://github.com/id-87/CustomCLI#readme",
+  "description": "",
+  "dependencies": {
+    "commander": "^14.0.3"
+  }
+}
